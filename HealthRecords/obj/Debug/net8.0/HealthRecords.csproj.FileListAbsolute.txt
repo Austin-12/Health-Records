@@ -1,0 +1,28 @@
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.exe
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.deps.json
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.runtimeconfig.json
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.dll
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.pdb
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.AssemblyInfo.cs
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.dll
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\refint\HealthRecords.dll
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.pdb
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.genruntimeconfig.cache
+C:\Users\austi\source\repos\HealthRecords\HealthRecords\obj\Debug\net8.0\ref\HealthRecords.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.exe
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.deps.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.runtimeconfig.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\bin\Debug\net8.0\HealthRecords.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.AssemblyInfoInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.AssemblyInfo.cs
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\refint\HealthRecords.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\HealthRecords.genruntimeconfig.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\obj\Debug\net8.0\ref\HealthRecords.dll
