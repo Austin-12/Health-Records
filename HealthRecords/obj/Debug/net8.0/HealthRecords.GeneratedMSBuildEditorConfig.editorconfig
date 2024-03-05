@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HealthRecords
-build_property.ProjectDir = C:\Users\austi\OneDrive\Desktop\Projects\C# projects\HealthRecords\HealthRecords\
+build_property.ProjectDir = C:\Users\austi\OneDrive\Desktop\GITHUB\Health-Records\HealthRecords\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\HealthRecords\\HealthRecords\\HealthRecords.csproj": {}
+    "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Health-Records\\HealthRecords\\HealthRecords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\HealthRecords\\HealthRecords\\HealthRecords.csproj": {
+    "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Health-Records\\HealthRecords\\HealthRecords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\HealthRecords\\HealthRecords\\HealthRecords.csproj",
+        "projectUniqueName": "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Health-Records\\HealthRecords\\HealthRecords.csproj",
         "projectName": "HealthRecords",
-        "projectPath": "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\HealthRecords\\HealthRecords\\HealthRecords.csproj",
+        "projectPath": "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Health-Records\\HealthRecords\\HealthRecords.csproj",
         "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\HealthRecords\\HealthRecords\\obj\\",
+        "outputPath": "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Health-Records\\HealthRecords\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
